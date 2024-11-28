@@ -23,7 +23,6 @@
 <a href="mailto:ronaldocrleite@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 
-
-
-
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=odlaanoR&theme=nightowl)](https://github.com/odlaanoR/github-readme-activity-graph)
