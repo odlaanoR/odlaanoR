@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B733F7&center=true&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Ronaldo+Cesar;Seja+bem-vindo(a)+ao+meu+reposit%C3%B3rio!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B733F7&center=true&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Ronaldo+Cesar;Bem-vindo(a)+ao+meu+reposit%C3%B3rio!" alt="Typing SVG" /></a>
 
 <div>
   <a href="https://github.com/odlaanoR">
